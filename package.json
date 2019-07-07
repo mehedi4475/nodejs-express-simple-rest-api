@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-express-rest-api",
+  "version": "1.0.0",
+  "description": "This is a curd project by nodejs and express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "nodejs"
+  ],
+  "author": "Mehedi Hasan",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.3"
+  }
+}
