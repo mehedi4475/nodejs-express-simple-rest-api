@@ -1,5 +1,12 @@
 # nodejs-express-simple-rest-api
 
+mkdir nodejs-api
+cd nodejs-api
+npm init
+npm install express body-parser mongoose --save
+npm install
+node server.js
+
 //Home Page
 http://127.0.0.1:3000
 
