@@ -12,6 +12,10 @@ npm install
 
 node server.js
 
+npm install -g nodemon
+
+nodemon server.js
+
 //Home Page
 http://127.0.0.1:3000
 
